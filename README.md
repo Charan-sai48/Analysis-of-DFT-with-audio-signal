@@ -71,6 +71,7 @@ print("Filtered audio saved as cleaned_audio.wav")
 <img width="1021" height="470" alt="image" src="https://github.com/user-attachments/assets/7d9d0ed1-044a-4d3a-9b09-faf1c5cb52f6" />
 
 
+
 # RESULTS
 
 Audio signal by removing unwanted frequency was analysed
